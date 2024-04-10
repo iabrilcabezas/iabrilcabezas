@@ -1,4 +1,7 @@
-### Hi there 👋
+![photo of me speaking at outreach event Soapbox Science Spain 2023](banner.jpeg)
+
+
+### ¡Hola 👋!
 
 <!--
 **iabrilcabezas/iabrilcabezas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Irene (pronounced /ee-deh-neh/, she/her/hers). I am a scientist passionate about Cosmology, outreach and diversity. My work currently focuses on studying the afterglow light from the Big Bang to learn more about the very beginning of the Universe and the subsequent distribution of dark matter across cosmic time.
